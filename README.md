@@ -1,2 +1,2 @@
-# git hub data
+Event management system
  
